@@ -1,11 +1,11 @@
 # Site settings
-author: Derek Stiles
-title: 
+author: Derek Neal Stiles
+title: Becoming A Data Scientist
 header-img: img/home-bg.png
 email: derek.neal.stiles@gmail.com
-copyright_name: Derek Stiles
+copyright_name: Derek Neal Stiles
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My Journey's Trials & Tribulations  
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  dstiles2
